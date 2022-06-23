@@ -6,18 +6,18 @@ The repository is about my computer setup. I decided to create a repository abou
 
 ## My OS/Distro
 
-- I use Linux as my primary and only OS. 
+- I use Linux as my primary and only OS.
 - My distro is Arch Linux. Sometimes I think about building my custom one Linux From Scratch but I don't have time for now.
 
 ### Shell
 
-- I use zsh with powerlevel-10k.
+- I use zsh with [powerlevel-10k](https://github.com/romkatv/powerlevel10k).
 
 My dotfiles can be found [here](https://github.com/melikechan/dotfiles) (not uploaded yet)
 
 ### DE/WM
 
-- I usually use GNOME as my DE and its built-in WM, Mutter. 
+- I usually use GNOME as my DE and its built-in WM, Mutter.
 - I sometimes use i3-gaps + GNOME too.
 
 #### GNOME Setup
@@ -25,14 +25,14 @@ My dotfiles can be found [here](https://github.com/melikechan/dotfiles) (not upl
 ##### Themes
 
 I am thinking of making my own theme, called as "Advance" with dark variation. But I currently use:
-- Adwaita Dark for applications
+
+- [Nordic](https://www.gnome-look.org/p/1267246/) (bluish accent) as main theme.
 - Adwaita for cursors and icons.
-- Default setting for the shell and sound.
 
 ##### Extensions
 
-- Blur my Shell
-- Just Perfection
-- Dash to Panel
-- Workspace Indicator
-- Tray Icons: Reloaded
+- [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
+- [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/)
+- [Dash to Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/)
+- [Workspace Indicator](https://extensions.gnome.org/extension/21/workspace-indicator/)
+- [Tray Icons: Reloaded](https://extensions.gnome.org/extension/2890/tray-icons-reloaded/)
