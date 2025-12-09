@@ -129,10 +129,12 @@ exec = gsettings set org.gnome.desktop.interface gtk-theme "adw-gtk3-dark"   # f
 env = QT_QPA_PLATFORMTHEME,qt6ct   # for Qt apps
 ```
 
+- As dialog provider, I use [zenith](https://gitlab.gnome.org/GNOME/zenity)
+- As login manager daemon, I use [greetd](https://wiki.archlinux.org/title/Greetd)
+  - As greeter, I use [ReGreet](https://github.com/rharish101/ReGreet).
 - As file manager, I use [Nautilus](https://apps.gnome.org/Nautilus/).
 - As process tracker, I use [htop](https://htop.dev/).
 - As screenshot software, I use [Gradia](https://github.com/AlexanderVanhee/Gradia)
-- _I still haven't setup a greeter._ I am going to look for it soon.
 
 > [!NOTE]
 > You can find about config files in the [dotfiles](#dotfiles) section.
