@@ -129,12 +129,12 @@ exec = gsettings set org.gnome.desktop.interface gtk-theme "adw-gtk3-dark"   # f
 env = QT_QPA_PLATFORMTHEME,qt6ct   # for Qt apps
 ```
 
-- As dialog provider, I use [zenith](https://gitlab.gnome.org/GNOME/zenity)
-- As login manager daemon, I use [greetd](https://wiki.archlinux.org/title/Greetd)
+- As dialog provider, I use [zenith](https://gitlab.gnome.org/GNOME/zenity).
+- As login manager daemon, I use [greetd](https://wiki.archlinux.org/title/Greetd).
   - As greeter, I use [ReGreet](https://github.com/rharish101/ReGreet).
 - As file manager, I use [Nautilus](https://apps.gnome.org/Nautilus/).
 - As process tracker, I use [htop](https://htop.dev/).
-- As screenshot software, I use [Gradia](https://github.com/AlexanderVanhee/Gradia)
+- As screenshot software, I use [Gradia](https://github.com/AlexanderVanhee/Gradia).
 
 > [!NOTE]
 > You can find about config files in the [dotfiles](#dotfiles) section.
@@ -146,14 +146,29 @@ env = QT_QPA_PLATFORMTHEME,qt6ct   # for Qt apps
 - As browser, I use [Firefox](https://www.firefox.com).
 - As mailbox, I use [Thunderbird](https://www.thunderbird.net).
 
+##### Instant Messaging
+
+- I use [Vesktop](https://github.com/Vencord/Vesktop) as Discord client.
+- I use [Signal's official app](https://archlinux.org/packages/extra/x86_64/signal-desktop/) as Signal client.
+
 #### Multimedia
 
 - As image viewer, I use [Loupe](https://apps.gnome.org/Loupe/).
 - As media player, I use [VLC Media Player](https://www.videolan.org/).
 
+#### Torrenting
+
+- As torrent client, I use [qbittorrent](https://www.qbittorrent.org/).
+
+##### Media Server
+
+I, personally don't host any media servers (yet). <br />
+However, I use one of my friend's Audiobookshelf instance since he let me listen. :)
+
 #### Other
 
 - As keyring, I use [gnome-keyring](https://wiki.archlinux.org/title/GNOME/Keyring).
+- As system info fetcher, I use [fastfetch](https://github.com/fastfetch-cli/fastfetch).
 
 ## Coding
 
