@@ -143,8 +143,11 @@ env = QT_QPA_PLATFORMTHEME,qt6ct   # for Qt apps
 
 #### Web-related
 
-- As browser, I use [Firefox](https://www.firefox.com).
+- As browser, I use ~~[Firefox](https://www.firefox.com)~~ [Zen Browser]().
 - As mailbox, I use [Thunderbird](https://www.thunderbird.net).
+
+> [!WARNING]
+> After Mozilla's [messed up situation](https://archive.is/75FjT), I quit using Firefox.
 
 ##### Instant Messaging
 
