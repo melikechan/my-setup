@@ -130,6 +130,7 @@ env = QT_QPA_PLATFORMTHEME,qt6ct   # for Qt apps
 ```
 
 - As dialog provider, I use [zenith](https://gitlab.gnome.org/GNOME/zenity).
+- As notification daemon, I use [swaync](https://github.com/ErikReider/SwayNotificationCenter).
 - As login manager daemon, I use [greetd](https://wiki.archlinux.org/title/Greetd).
   - As greeter, I use [ReGreet](https://github.com/rharish101/ReGreet).
 - As file manager, I use [Nautilus](https://apps.gnome.org/Nautilus/).
