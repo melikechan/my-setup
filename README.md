@@ -1,5 +1,7 @@
 # melikechan's Setup
 
+[![I Use Arch BTW](https://img.shields.io/badge/-I%20use%20Arch%20BTW-blue.svg?logo=archlinux&logoColor=white)](https://archlinux.org/)
+
 The repository that contains my setup.
 
 I decided to create a repository about my setup because I usually get confused about what to install / what to use after a clear installation, so better to create a list about it.
