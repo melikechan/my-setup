@@ -156,6 +156,7 @@ env = QT_QPA_PLATFORMTHEME,qt6ct   # for Qt apps
 
 - I use [Vesktop](https://github.com/Vencord/Vesktop) as Discord client.
 - I use [Signal's official app](https://archlinux.org/packages/extra/x86_64/signal-desktop/) as Signal client.
+- I use [Fractal](https://wiki.gnome.org/Apps/Fractal) as Matrix client.
 
 #### Multimedia
 
