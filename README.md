@@ -123,14 +123,17 @@ I use [hyprland](https://hypr.land/). It looks really nice.
   walker --gapplication-service
   ```
 
-- There are some custom entries in my hyprland.conf to **enforce dark theme**. (via this [Reddit post](https://www.reddit.com/r/hyprland/comments/1h4abmt))
+- There are some custom entries in my hyprland.conf to **enforce dark theme**. (via this [Reddit post](https://www.reddit.com/r/hyprland/comments/1h4abmt), updated for Lua syntax)
 
 ```conf
-exec = gsettings set org.gnome.desktop.interface color-scheme "prefer-dark"   # for GTK4 apps
-exec = gsettings set org.gnome.desktop.interface gtk-theme "adw-gtk3-dark"   # for GTK3 apps
-env = QT_QPA_PLATFORMTHEME,qt6ct   # for Qt apps
+hl.on("hyprland.start", function()
+    hl.exec_cmd('gsettings set org.gnome.desktop.interface color-scheme "prefer-dark"')
+    hl.exec_cmd('gsettings set org.gnome.desktop.interface gtk-theme "adw-gtk3-dark"')
+end)
 ```
 
+- As wallpaper utility, I use [hyprpaper](https://wiki.hypr.land/Hypr-Ecosystem/hyprpaper/)
+- As shutdown utility, I use [hyprshutdown](https://wiki.hypr.land/Hypr-Ecosystem/hyprshutdown/)
 - As dialog provider, I use [zenith](https://gitlab.gnome.org/GNOME/zenity).
 - As notification daemon, I use [swaync](https://github.com/ErikReider/SwayNotificationCenter).
 - As login manager daemon, I use [greetd](https://wiki.archlinux.org/title/Greetd).
