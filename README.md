@@ -146,7 +146,7 @@ env = QT_QPA_PLATFORMTHEME,qt6ct   # for Qt apps
 
 #### Web-related
 
-- As browser, I use ~~[Firefox](https://www.firefox.com)~~ [Zen Browser]().
+- As browser, I use [Zen Browser](https://zen-browser.app).
 - As mailbox, I use [Thunderbird](https://www.thunderbird.net).
 
 > [!WARNING]
@@ -169,7 +169,7 @@ env = QT_QPA_PLATFORMTHEME,qt6ct   # for Qt apps
 
 ##### Media Server
 
-I, personally don't host any media servers (yet). <br />
+I personally don't host any media servers (yet). <br />
 However, I use one of my friend's Audiobookshelf instance since he let me listen. :)
 
 #### Other
@@ -181,9 +181,8 @@ However, I use one of my friend's Audiobookshelf instance since he let me listen
 
 ### Code Editor
 
-I use [VSCodium](https://vscodium.com/) as my code editor.
-<br />
-As color theme, I use _[One Dark Pro](https://github.com/Binaryify/OneDark-Pro) Night Flat_ and as icon theme, I use _[vscode-icons](https://github.com/vscode-icons/vscode-icons)_.
+I use [Zed](https://zed.dev/) as my code editor. <br />
+As color theme, I use _[One Dark - Darkened](https://github.com/pavles6/one-dark-darkened)_ and as icon theme, I use _[vscode-icons-zed](https://github.com/vscode-icons/vscode-icons-zed)_.
 
 > [!NOTE]
 > _I also have [neovim](https://neovim.io/) installed. However, **I use VSCodium as my on to go one**._
@@ -213,4 +212,4 @@ Came for config files? Sure.
 
 You can find the corresponding dotfiles from my [dotfiles repository](https://github.com/melikechan/dotfiles).
 
-Or... You already came from there. ¯\\_(ツ)\_/¯
+Or... You already came from there. ¯\\\_(ツ)\_/¯
