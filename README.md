@@ -132,8 +132,8 @@ hl.on("hyprland.start", function()
 end)
 ```
 
-- As wallpaper utility, I use [hyprpaper](https://wiki.hypr.land/Hypr-Ecosystem/hyprpaper/)
-- As shutdown utility, I use [hyprshutdown](https://wiki.hypr.land/Hypr-Ecosystem/hyprshutdown/)
+- As wallpaper utility, I use [hyprpaper](https://wiki.hypr.land/Hypr-Ecosystem/hyprpaper/).
+- As shutdown utility, I use [hyprshutdown](https://wiki.hypr.land/Hypr-Ecosystem/hyprshutdown/).
 - As dialog provider, I use [zenith](https://gitlab.gnome.org/GNOME/zenity).
 - As notification daemon, I use [swaync](https://github.com/ErikReider/SwayNotificationCenter).
 - As login manager daemon, I use [greetd](https://wiki.archlinux.org/title/Greetd).
@@ -188,7 +188,7 @@ I use [Zed](https://zed.dev/) as my code editor. <br />
 As color theme, I use _[One Dark - Darkened](https://github.com/pavles6/one-dark-darkened)_ and as icon theme, I use _[vscode-icons-zed](https://github.com/vscode-icons/vscode-icons-zed)_.
 
 > [!NOTE]
-> _I also have [neovim](https://neovim.io/) installed. However, **I use VSCodium as my on to go one**._
+> _I also have [neovim](https://neovim.io/) installed. However, **I use Zed as my on to go one**._
 
 ### Language-specific
 
